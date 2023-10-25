@@ -6,5 +6,8 @@ body{font-size: 16px;}
     .negrito{color: #ff0000;}
     .imagem{width: 100%;}
         .BENEFÍCIOS{text-align: center;}
-        .imagem-beneficios {width: 100%;}
-        .titulo{}
+        .imagem-beneficios {width: 50%;}
+        .titulo{padding: 20px;}
+        .lista{display: inline-block;
+        vertical-align: top;}
+        
